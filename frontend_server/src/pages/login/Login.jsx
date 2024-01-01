@@ -11,7 +11,7 @@ export default function Login_view(props) {
 
     return (
         <div className="body">
-            <div className="main_login">
+            <div className="mv_main_login">
                 <div className="logo_display">
                     <img src="assets/main_logo.png" alt="" />
                     <span>TD++</span>

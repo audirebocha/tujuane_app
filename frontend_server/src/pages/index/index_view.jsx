@@ -10,7 +10,7 @@ export default function Index_view(props) {
 
     return (
         <div className="body">
-            <div className="main">
+            <div className="mv_main">
                 <Search_n_contact chat_with_individual={props.chat_with_individual} />
                 <div className="control_bar">
                     <div>

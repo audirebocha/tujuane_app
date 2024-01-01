@@ -8,7 +8,7 @@ export default function Chat_view(props) {
 
     return (
         <div class="body">
-            <div class="main">
+            <div class="mv_main">
 
                 <div class="party_2_container">
                     <div class="contact_container">
