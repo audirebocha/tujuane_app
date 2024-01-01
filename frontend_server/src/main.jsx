@@ -6,7 +6,7 @@ import {
 } from "react-router-dom";
 
 //Importing pages
-import Index from './pages';
+import Index from './pages/index.jsx';
 
 
 const router = createBrowserRouter([
