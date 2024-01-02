@@ -12,7 +12,7 @@ import Index from './pages/index.jsx';
 const router = createBrowserRouter([
   {
     path:'/',
-    element: <Index/>,
+    element: <Index />,
   },
   
 ])
